@@ -6,3 +6,5 @@ y = x + 2
 import pandas as pd
 
 #talk to prof
+
+#I have remotely connected my local folder to Github
